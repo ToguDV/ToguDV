@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ToguDV
-- 👀 I’m interested in Web and Game development
-- 🌱 I’m currently Web Scrapping
+- 🧟 Hi, I’m @ToguDV
+- 🎮 Web & Game Developer
+- 📚 I’m currently learning Web Scrapping
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical)]
