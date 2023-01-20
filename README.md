@@ -18,11 +18,15 @@ I have a solid knowledge of the technologies required to deliver a product not o
 <h1>Tools</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,react,tailwind&theme=light" />
   </a>
 </p>
   
 </hr>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical)]
+<p align="center">
+  <a href="">
+    <img src="https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical" />
+  </a>
+</p>
