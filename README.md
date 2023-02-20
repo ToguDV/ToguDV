@@ -19,7 +19,7 @@ I have a solid knowledge of the technologies required to deliver a product not o
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,react,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,react,unity,docker,tailwind&theme=light" />
   </a>
 </p>
   
