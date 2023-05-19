@@ -25,8 +25,9 @@ I have a solid knowledge of the technologies required to deliver a product not o
   
 </hr>
 
-<p align="center">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical" />
-  </a>
-</p>
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=togudv&theme=radical" alt="togudv" />
+</div>
+
+
