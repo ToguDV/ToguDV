@@ -16,19 +16,13 @@ I have a solid knowledge of the technologies required to deliver a product not o
 
 <hr>
 <h1>Stats</h1>
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/React-?style=for-the-badge&logo=React&logoColor=white" />
-  </a>
-</p>
   
 </hr>
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToguDV&theme=transparent" alt="togudv" />
+  <img align="center" src="https://streak-stats.demolab.com?user=ToguDV&theme=transparent&hide_border=true&border_radius=5.2)](https://git.io/streak-stats" alt="togudv" />
 </p>
 <div align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToguDV&theme=transparent" alt="togudv" />
     
 </div>
