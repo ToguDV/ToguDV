@@ -15,7 +15,7 @@ I have a solid knowledge of the technologies required to deliver a product not o
 </p>
 
 <hr>
-<h1>Tools</h1>
+<h1>Stats</h1>
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/React-?style=for-the-badge&logo=React&logoColor=white" />
@@ -30,6 +30,7 @@ I have a solid knowledge of the technologies required to deliver a product not o
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToguDV&theme=transparent" alt="togudv" />
+    
 </div>
 
 
