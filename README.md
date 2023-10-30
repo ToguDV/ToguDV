@@ -16,19 +16,20 @@ I have a solid knowledge of the technologies required to deliver a product not o
 
 <hr>
 <h1>Tools</h1>
-
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=java,spring,cs,nodejs,react,unity,docker,tailwind&theme=light" />
+    <img src="https://img.shields.io/badge/React-?style=for-the-badge&logo=React&logoColor=white" />
   </a>
 </p>
   
 </hr>
-
+<p align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ToguDV&theme=transparent" alt="togudv" />
+</p>
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ToguDV&show_icons=true&theme=radical" alt="togudv" />
-  <br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=togudv&theme=radical&card_width=470" alt="togudv" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToguDV&theme=transparent" alt="togudv" />
 </div>
 
 
