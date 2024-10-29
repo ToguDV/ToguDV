@@ -1,11 +1,8 @@
 
-<h1 align="center"> 😎 </h1>
+<h1 align="center"> 🥑 </h1>
 <div align="center">
   
 </div>
-<!---
-<p align="center"> (SOCIAL MEDIA)</p>
--->
 <h2 align="center">🕵️  Whoami</h2>
 <p align="center">
   <samp>Hi, I'm Andrey (Togu), I'm a web developer with three years of experience. Not only do I have development skills working in a company, I have participated in the whole software lifecycle, from planning to release and maintenance working as a freelancer.
