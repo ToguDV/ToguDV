@@ -3,11 +3,11 @@
 <div >
   
 </div>
-<p >
+<p>
   <samp>I develop Games, Webs & Apps from Colombia <img src="https://cdn-icons-png.flaticon.com/128/323/323343.png" alt="Alien Monster" width="13" />
   </samp>
   <br> <br>
-  <samp>My favorite technologies:</samp>
+  <h3>My favorite technologies:</h3>
   
   ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
   ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -18,8 +18,14 @@
   ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
+  
   <br> <br>
 </p>
+
+<h3>Find me at:</h3>
+
+<a href="https://www.linkedin.com/in/cesar-villegas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" a="" /></a>
+
 
 <hr>
 <h1>Stats</h1>
