@@ -19,16 +19,16 @@
   ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   
   
-  <br> <br>
 </p>
 
 <h3>Find me at:</h3>
 
-<a href="https://www.linkedin.com/in/cesar-villegas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" a="" /></a>
+
+<a href="https://www.linkedin.com/in/cesar-villegas/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"/></a>
 
 
 <hr>
-<h1>Stats</h1>
+<h3>Stats</h3>
   
 <div >
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
