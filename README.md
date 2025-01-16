@@ -4,7 +4,7 @@
   
 </div>
 <p>
-  <samp>I like to develop Games, Webs & Apps from Colombia <img src="https://cdn-icons-png.flaticon.com/128/323/323343.png" alt="Alien Monster" width="13" />
+  <samp>I like to develop all kinds of software, some useful and others not so much. I love everything related to game development.
   </samp>
   <br> <br>
   <h3>My favorite technologies:</h3>
