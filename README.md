@@ -4,7 +4,7 @@
   
 </div>
 <p>
-  <samp>I like to develop all kinds of software, some useful and others not so much. I love everything related to game development.
+  <samp>I like to develop all kinds of software, some are useful and others not so much. I love everything related to game development.
   </samp>
   <br> <br>
   <h3>My favorite technologies:</h3>
