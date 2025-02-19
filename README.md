@@ -25,11 +25,7 @@
 
 <hr>
 <h3>Stats</h3>
-  
-<div >
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ToguDV&theme=transparent&exclude=CSS,HTML" alt="togudv" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ToguDV&theme=transparent" alt="togudv" />
-    
-</div>
+
+![togudv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=togudv&theme=dracula&hide_border=true)
 
 
