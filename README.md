@@ -23,14 +23,6 @@
   
 </p>
 
-<h3>Find me at:</h3>
-
-
-<a href="https://www.linkedin.com/in/cesar-villegas/"><img src="https://camo.githubusercontent.com/743e90bfd43f3a5240288c1e92ca222bc2550b6d4049f39817a0aa6e82536cb0/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4c696e6b6564496e2d3041363643323f6c6f676f3d6c696e6b6564696e2d7768697465266c6f676f436f6c6f723d666666"/></a>
-
-
-<hr>
-<h3>Stats</h3>
 
 
 ![togudv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=togudv&theme=dracula&hide_border=true)
